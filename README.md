@@ -12,6 +12,13 @@ Enter the weight you lifted and the number of reps, choose **kg** or **lb**, and
 - Minimal, responsive UI built with **Streamlit**.  
 - Ready to deploy on Streamlit Cloud, Render, Fly.io, etc.
 
+## Files overview 📁
+  - **.streamlit** -> Contains the default dark theme configuration
+  - **app.py** -> Main app code
+  - **.gitignore** -> Files that don´t matter
+  - **LICENSE** -> Project LICENSE
+  - **README** -> This document
+
 ## Installation 🛠️
 
 1. Clone the repository:  
