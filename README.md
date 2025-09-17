@@ -28,7 +28,9 @@ Enter the weight you lifted and the number of reps, choose **kg** or **lb**, and
 
 Run the streamlit app locally:
   **streamlit run app.py**
+  
 The app will open in your browser (local host)
+
 Enter: weight lifted and reps to see your 1RM
 
 ## License 📄
